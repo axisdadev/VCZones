@@ -1,4 +1,7 @@
 # VCZones
+
+# this is old and outdated, i never finished it. Public archive_
+
 VCZones, is a python/roblox script for connecting users to a voice channel with a part .touched interaction
 
 -----------------------------------------------------------------------------------------------------
